@@ -1,0 +1,87 @@
+﻿  Source.cpp
+D:\UNI\2ºAño\ED\Practicas\Project10\Project10\Header.h(25,14): error C2248: 'queue<T>::ult': no se puede obtener acceso al miembro protected miembro declarado en la clase 'queue<T>'
+          with
+          [
+              T=int
+          ]
+D:\UNI\2ºAño\ED\Practicas\Project10\Project10\queue_eda.h(37): message : vea la declaración de 'queue<T>::ult'
+          with
+          [
+              T=int
+          ]
+D:\UNI\2ºAño\ED\Practicas\Project10\Project10\Header.h(5): message : vea la declaración de 'queue<T>'
+          with
+          [
+              T=int
+          ]
+D:\UNI\2ºAño\ED\Practicas\Project10\Project10\Header.h(18): message : al compilar la función del miembro clase plantilla "void ListaInsert<int>::insertar(queue<T> *,int)"
+          with
+          [
+              T=int
+          ]
+D:\UNI\2ºAño\ED\Practicas\Project10\Project10\Source.cpp(35): message : Vea la referencia a la creación de una instancia de la función plantilla "void ListaInsert<int>::insertar(queue<T> *,int)" que se está compilando
+          with
+          [
+              T=int
+          ]
+D:\UNI\2ºAño\ED\Practicas\Project10\Project10\Source.cpp(14): message : Vea la referencia a la creación de una instancia de clase plantilla "ListaInsert<int>" que se está compilando
+D:\UNI\2ºAño\ED\Practicas\Project10\Project10\Header.h(26,25): error C2248: 'queue<T>::prim': no se puede obtener acceso al miembro protected miembro declarado en la clase 'queue<T>'
+          with
+          [
+              T=int
+          ]
+D:\UNI\2ºAño\ED\Practicas\Project10\Project10\queue_eda.h(36): message : vea la declaración de 'queue<T>::prim'
+          with
+          [
+              T=int
+          ]
+D:\UNI\2ºAño\ED\Practicas\Project10\Project10\Header.h(5): message : vea la declaración de 'queue<T>'
+          with
+          [
+              T=int
+          ]
+D:\UNI\2ºAño\ED\Practicas\Project10\Project10\Header.h(27,14): error C2248: 'queue<T>::prim': no se puede obtener acceso al miembro protected miembro declarado en la clase 'queue<T>'
+          with
+          [
+              T=int
+          ]
+D:\UNI\2ºAño\ED\Practicas\Project10\Project10\queue_eda.h(36): message : vea la declaración de 'queue<T>::prim'
+          with
+          [
+              T=int
+          ]
+D:\UNI\2ºAño\ED\Practicas\Project10\Project10\Header.h(5): message : vea la declaración de 'queue<T>'
+          with
+          [
+              T=int
+          ]
+D:\UNI\2ºAño\ED\Practicas\Project10\Project10\Header.h(28,14): error C2248: 'queue<T>::ult': no se puede obtener acceso al miembro protected miembro declarado en la clase 'queue<T>'
+          with
+          [
+              T=int
+          ]
+D:\UNI\2ºAño\ED\Practicas\Project10\Project10\queue_eda.h(37): message : vea la declaración de 'queue<T>::ult'
+          with
+          [
+              T=int
+          ]
+D:\UNI\2ºAño\ED\Practicas\Project10\Project10\Header.h(5): message : vea la declaración de 'queue<T>'
+          with
+          [
+              T=int
+          ]
+D:\UNI\2ºAño\ED\Practicas\Project10\Project10\Header.h(29,14): error C2248: 'queue<T>::nelems': no se puede obtener acceso al miembro protected miembro declarado en la clase 'queue<T>'
+          with
+          [
+              T=int
+          ]
+D:\UNI\2ºAño\ED\Practicas\Project10\Project10\queue_eda.h(40): message : vea la declaración de 'queue<T>::nelems'
+          with
+          [
+              T=int
+          ]
+D:\UNI\2ºAño\ED\Practicas\Project10\Project10\Header.h(5): message : vea la declaración de 'queue<T>'
+          with
+          [
+              T=int
+          ]
