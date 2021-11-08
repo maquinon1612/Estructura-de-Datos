@@ -1,8 +1,0 @@
-﻿  Source.cpp
-D:\UNI\2ºAño\ED\Practicas\Project2018\Project2018\lista_eda.h(17,26): error C2872: 'deque': símbolo ambiguo
-D:\UNI\2ºAño\ED\Practicas\Project2018\Project2018\deque_eda.h(21,13): message : puede ser 'deque'
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\deque(558,13): message : o       'std::deque'
-D:\UNI\2ºAño\ED\Practicas\Project2018\Project2018\lista_eda.h(19,1): error C2872: 'deque': símbolo ambiguo
-D:\UNI\2ºAño\ED\Practicas\Project2018\Project2018\deque_eda.h(21,13): message : puede ser 'deque'
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\deque(558,13): message : o       'std::deque'
-D:\UNI\2ºAño\ED\Practicas\Project2018\Project2018\lista_eda.h(135): message : Vea la referencia a la creación de una instancia de clase plantilla "list<T>" que se está compilando
