@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\UNI\2ºAño\ED\Practicas\PruebasMaps\PruebasMaps\Source.cpp(355,9): warning C4101: 'N': variable local sin referencia
+D:\UNI\2ºAño\ED\Practicas\PruebasMaps\PruebasMaps\Source.cpp(356,9): warning C4101: 'clave': variable local sin referencia
+D:\UNI\2ºAño\ED\Practicas\PruebasMaps\PruebasMaps\Source.cpp(799,42): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+  PruebasMaps.vcxproj -> D:\UNI\2ºAño\ED\Practicas\PruebasMaps\Debug\PruebasMaps.exe

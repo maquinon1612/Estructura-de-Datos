@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\UNI\2ºAño\ED\Practicas\PruebaTrees\PruebaTrees\Source.cpp(320,10): warning C4101: 'ret': variable local sin referencia
+D:\UNI\2ºAño\ED\Practicas\PruebaTrees\PruebaTrees\Source.cpp(343): warning C4715: 'f': no todas las rutas de acceso de control devuelven un valor
+  PruebaTrees.vcxproj -> D:\UNI\2ºAño\ED\Practicas\PruebaTrees\Debug\PruebaTrees.exe
