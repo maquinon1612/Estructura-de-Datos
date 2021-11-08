@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\4\Source.cpp(13,8): warning C4101: 'monomios': variable local sin referencia
+  Project3.vcxproj -> B:\Project3\Debug\Project3.exe
