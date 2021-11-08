@@ -1,0 +1,17 @@
+5 3
+Temp.Reactor 01:00:10
+Temp.Agua 01:00:20
+Temp.Reactor 01:00:30
+Temp.Agua 02:00:10
+Temp.Agua 02:00:20
+Temp.Agua 2
+Radiacion 1
+Temp.Reactor 2
+4 3
+Radiacion 00:00:00
+Radiacion 01:00:00
+Radiacion 02:00:00
+Temp.Reactor 03:00:00
+Temp.Reactor 2
+Radiacion 3
+Radiacion 1

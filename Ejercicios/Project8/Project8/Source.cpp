@@ -1,0 +1,88 @@
+// Mario Quiñones Pérez
+// A60
+
+
+#include <iostream>
+#include <iomanip>
+#include <fstream>
+#include "deque_eda.h"
+
+
+class deque2 : public deque<int> {
+public:
+    void duplicar() {
+
+        auto apuntado = fantasma->sig;
+        auto siguiente = apuntado->sig;
+        int elem;
+
+        while (apuntado != fantasma) {
+            siguiente = apuntado->sig;
+            elem = apuntado->elem;
+            apuntado->sig = new Nodo(elem, apuntado, siguiente);
+            siguiente->ant = apuntado->sig;
+            apuntado->sig->sig = siguiente;
+            apuntado = siguiente;
+            nelems++;
+        }
+        
+    }
+
+    void const mostrar() const {
+        auto apuntado = fantasma->sig;
+
+        while (apuntado != fantasma) {
+            std::cout << apuntado->elem << " ";
+            apuntado = apuntado->sig;
+        }
+        std::cout << '\n';
+    }
+};
+
+
+
+bool resuelveCaso() {
+    // leer los datos de la entrada
+
+    int a;
+    deque2 cola;
+
+    if (!std::cin)
+        return false;
+
+    std::cin >> a;
+
+    while (a != 0) {
+        cola.push_back(a);
+        std::cin >> a;
+    }
+
+    cola.duplicar();
+    cola.mostrar();
+
+
+    return true;
+
+}
+
+int main() {
+    // Para la entrada por fichero.
+    // Comentar para acepta el reto
+#ifndef DOMJUDGE
+    //std::ifstream in("datos.txt");
+    //auto cinbuf = std::cin.rdbuf(in.rdbuf()); //save old buf and redirect std::cin to casos.txt
+#endif 
+
+
+    while (resuelveCaso())
+        ;
+
+
+    // Para restablecer entrada. Comentar para acepta el reto
+#ifndef DOMJUDGE // para dejar todo como estaba al principio
+    //std::cin.rdbuf(cinbuf);
+    //system("PAUSE");
+#endif
+
+    return 0;
+}
