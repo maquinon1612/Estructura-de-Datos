@@ -1,0 +1,4 @@
+﻿  Source.cpp
+B:\Project38\Project38\Source.cpp(30,26): warning C4244: '=': conversión de '__int64' a 'int'; posible pérdida de datos
+B:\Project38\Project38\Source.cpp(38,25): warning C4244: '=': conversión de '__int64' a 'int'; posible pérdida de datos
+  Project38.vcxproj -> B:\Project38\Debug\Project38.exe

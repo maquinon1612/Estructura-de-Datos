@@ -1,0 +1,57 @@
+﻿  Source.cpp
+B:\Project44\Project44\hashmap_modificado.h(305,48): warning C4018: '<': no coinciden signed/unsigned
+B:\Project44\Project44\hashmap_modificado.h(300): message : al compilar la función del miembro clase plantilla "void unordered_map<int,int,Hash_colisionador,std::equal_to<Clave>>::Iterador<false>::next(void)"
+          with
+          [
+              Clave=int
+          ]
+B:\Project44\Project44\hashmap_modificado.h(256): message : Vea la referencia a la creación de una instancia de la función plantilla "void unordered_map<int,int,Hash_colisionador,std::equal_to<Clave>>::Iterador<false>::next(void)" que se está compilando
+          with
+          [
+              Clave=int
+          ]
+B:\Project44\Project44\Source.cpp(63): message : Vea la referencia a la creación de una instancia de clase plantilla "unordered_map<int,int,Hash_colisionador,std::equal_to<Clave>>::Iterador<false>" que se está compilando
+          with
+          [
+              Clave=int
+          ]
+B:\Project44\Project44\hashmap_modificado.h(279,32): warning C4018: '<': no coinciden signed/unsigned
+B:\Project44\Project44\hashmap_modificado.h(276): message : al compilar la función del miembro clase plantilla "unordered_map<int,int,Hash_colisionador,std::equal_to<Clave>>::Iterador<false>::Iterador(unordered_map<Clave,int,Hash_colisionador,std::equal_to<Clave>> *,bool)"
+          with
+          [
+              Clave=int
+          ]
+B:\Project44\Project44\hashmap_modificado.h(342): message : Vea la referencia a la creación de una instancia de la función plantilla "unordered_map<int,int,Hash_colisionador,std::equal_to<Clave>>::Iterador<false>::Iterador(unordered_map<Clave,int,Hash_colisionador,std::equal_to<Clave>> *,bool)" que se está compilando
+          with
+          [
+              Clave=int
+          ]
+B:\Project44\Project44\hashmap_modificado.h(283,32): warning C4018: '<': no coinciden signed/unsigned
+B:\Project44\Project44\hashmap_modificado.h(224,2): warning C4018: '<': no coinciden signed/unsigned
+B:\Project44\Project44\hashmap_modificado.h(222): message : al compilar la función del miembro clase plantilla "void unordered_map<int,int,Hash_colisionador,std::equal_to<Clave>>::amplia(void)"
+          with
+          [
+              Clave=int
+          ]
+B:\Project44\Project44\hashmap_modificado.h(139): message : Vea la referencia a la creación de una instancia de la función plantilla "void unordered_map<int,int,Hash_colisionador,std::equal_to<Clave>>::amplia(void)" que se está compilando
+          with
+          [
+              Clave=int
+          ]
+B:\Project44\Project44\Source.cpp(36): message : Vea la referencia a la creación de una instancia de clase plantilla "unordered_map<int,int,Hash_colisionador,std::equal_to<Clave>>" que se está compilando
+          with
+          [
+              Clave=int
+          ]
+B:\Project44\Project44\hashmap_modificado.h(182,2): warning C4018: '<': no coinciden signed/unsigned
+B:\Project44\Project44\hashmap_modificado.h(181): message : al compilar la función del miembro clase plantilla "void unordered_map<int,int,Hash_colisionador,std::equal_to<Clave>>::libera(void)"
+          with
+          [
+              Clave=int
+          ]
+B:\Project44\Project44\hashmap_modificado.h(88): message : Vea la referencia a la creación de una instancia de la función plantilla "void unordered_map<int,int,Hash_colisionador,std::equal_to<Clave>>::libera(void)" que se está compilando
+          with
+          [
+              Clave=int
+          ]
+  Project44.vcxproj -> B:\Project44\Debug\Project44.exe
