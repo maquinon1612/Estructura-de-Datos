@@ -1,0 +1,3 @@
+﻿  Source.cpp
+B:\Project23\Project23\Source.cpp(32): warning C4715: 'genealogico<int>': no todas las rutas de acceso de control devuelven un valor
+  Project23.vcxproj -> B:\Project23\Debug\Project23.exe
