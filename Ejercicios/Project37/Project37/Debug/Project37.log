@@ -1,0 +1,6 @@
+﻿  Source.cpp
+B:\Project37\Project37\Source.cpp(24,27): warning C4244: 'argumento': conversión de '__int64' a 'const int'; posible pérdida de datos
+B:\Project37\Project37\Source.cpp(28,22): warning C4244: 'argumento': conversión de '__int64' a 'const int'; posible pérdida de datos
+B:\Project37\Project37\Source.cpp(29,29): warning C4244: 'argumento': conversión de '__int64' a 'const int'; posible pérdida de datos
+B:\Project37\Project37\Source.cpp(31,13): warning C4244: 'argumento': conversión de '__int64' a 'const int'; posible pérdida de datos
+  Project37.vcxproj -> B:\Project37\Debug\Project37.exe
